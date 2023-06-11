@@ -7,4 +7,8 @@ Bu repo [Patika Dev](https://www.patika.dev/) Allianz GeleceğimAll Meslek Edind
 ```
 $ git clone https://github.com/KazimAhmetUzun/patikaodev01.git
 ```
+## License
+[MIT](https://choosealicense.com/licenses/mit/) 
 
+## GitHub 
+Github profilimi görmek için [Buraya tıklayınız] (https://github.com/KazimAhmetUzun)

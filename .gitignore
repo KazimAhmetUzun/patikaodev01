@@ -1,0 +1,13 @@
+*.txt
+*.mp3
+*.log
+*.lock
+!important.log
+*.tmp
+.DS_Store
+Thumbs.db
+*.xml
+/bin
+/out
+/target
+.o 
